@@ -1,5 +1,5 @@
 # Overview
-This is the Decentralized Ethereum Marketplace project based on Ethereum Technology, where you can purchases products and maintain the history of your purchase products. By using the Bockchain Technology , the project is Decentralized , Secure and Transparent for the user .
+This is the **Decentralized Ethereum** Marketplace project based on Ethereum Technology, where you can purchases products and maintain the history of your purchase products. By using the Bockchain Technology , the project is Decentralized , Secure and Transparent for the user .
 In this Project , purchasing , activation , deactivation  and managing the course is written in ***Solidity***.Every course id has been hashed by Keccak256 function . 
 Admin can change the status(Activate, Deactivate,Purchased) of the purchased course. 
 #### Technology and Languages Used
